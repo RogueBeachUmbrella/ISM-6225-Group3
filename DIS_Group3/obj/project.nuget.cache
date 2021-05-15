@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "t+mZ6StfU78dRRKhd79d5TdWSFLZJsAlTM8V7ZE1BN1rolgcMz9dD7RrXCQW5Yjfobd7wkFW87FD6cAA1CkF1g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jmgre\\source\\repos\\DIS_Group3\\DIS_Group3\\DIS_Group3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jmgre\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
