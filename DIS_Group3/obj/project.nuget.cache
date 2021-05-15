@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "t+mZ6StfU78dRRKhd79d5TdWSFLZJsAlTM8V7ZE1BN1rolgcMz9dD7RrXCQW5Yjfobd7wkFW87FD6cAA1CkF1g==",
+  "dgSpecHash": "hsgJtopkqMOlgFhbhjpAUm33YqL0o0KZyoTWtreMi6t/0OoqNNsrAEccKWEWJ+Lnkarnsa1B6EVrLep/EXhK/A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jmgre\\source\\repos\\DIS_Group3\\DIS_Group3\\DIS_Group3.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\jmgre\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\USF\\DistributedSystems\\ISM-6225-Group3\\DIS_Group3\\DIS_Group3.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
