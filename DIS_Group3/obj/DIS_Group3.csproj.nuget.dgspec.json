@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\USF\\DistributedSystems\\ISM-6225-Group3\\DIS_Group3\\DIS_Group3.csproj": {}
+    "C:\\Users\\cbert\\Source\\Repos\\ISM-6225-Group3\\DIS_Group3\\DIS_Group3.csproj": {}
   },
   "projects": {
-    "C:\\USF\\DistributedSystems\\ISM-6225-Group3\\DIS_Group3\\DIS_Group3.csproj": {
+    "C:\\Users\\cbert\\Source\\Repos\\ISM-6225-Group3\\DIS_Group3\\DIS_Group3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\USF\\DistributedSystems\\ISM-6225-Group3\\DIS_Group3\\DIS_Group3.csproj",
+        "projectUniqueName": "C:\\Users\\cbert\\Source\\Repos\\ISM-6225-Group3\\DIS_Group3\\DIS_Group3.csproj",
         "projectName": "DIS_Group3",
-        "projectPath": "C:\\USF\\DistributedSystems\\ISM-6225-Group3\\DIS_Group3\\DIS_Group3.csproj",
-        "packagesPath": "C:\\Users\\arman\\.nuget\\packages\\",
-        "outputPath": "C:\\USF\\DistributedSystems\\ISM-6225-Group3\\DIS_Group3\\obj\\",
+        "projectPath": "C:\\Users\\cbert\\Source\\Repos\\ISM-6225-Group3\\DIS_Group3\\DIS_Group3.csproj",
+        "packagesPath": "C:\\Users\\cbert\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\cbert\\Source\\Repos\\ISM-6225-Group3\\DIS_Group3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\arman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\cbert\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
